@@ -1,0 +1,9 @@
+﻿cd InspectionAPI
+dir
+Add-Migration InitialCreate
+
+
+
+
+--    "InspectionConnection": "server=localhost\\sqlexpress; database=InspectionApiDB; trusted_connection=true"
+--    "InspectionConnection": "server=LAPTOP-C1TUUL4P; database=InspectionApiDB; trusted_connection=true"
