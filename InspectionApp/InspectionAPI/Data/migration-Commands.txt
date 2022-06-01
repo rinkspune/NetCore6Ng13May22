@@ -1,7 +1,15 @@
-﻿cd InspectionAPI
+﻿Step1 
+
+cd InspectionAPI
 dir
+
+Step2
 Add-Migration InitialCreate
 
+
+
+Step3
+update-database
 
 
 
